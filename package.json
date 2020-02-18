@@ -2,7 +2,7 @@
   "name": "breakout-game",
   "version": "1.0.0",
   "description": "",
-  "main": "src/views/main.html",
+  "main": "src/views/index.html",
   "homepage": "https://github.com/mahendra0859/breakout-game-nwjs.git",
   "scripts": {
     "dev": "nw src/",
