@@ -1,0 +1,19 @@
+{
+  "name": "breakout-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nw src/",
+    "prod": "nwbuild --platform win32,win64,osx64,linux32,linux64 --buildDir dist/ src/",
+    "deploy": "gh-pages -d src/views"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "nw": "^0.44.1-sdk",
+    "nw-builder": "^3.5.7"
+  }
+}
