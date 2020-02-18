@@ -2,7 +2,8 @@
   "name": "breakout-game",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/views/main.html",
+  "homepage": "https://github.com/mahendra0859/breakout-game-nwjs.git",
   "scripts": {
     "dev": "nw src/",
     "prod": "nwbuild --platform win32,win64,osx64,linux32,linux64 --buildDir dist/ src/",
