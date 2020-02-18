@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nw src/",
     "prod": "nwbuild --platform win32,win64,osx64,linux32,linux64 --buildDir dist/ src/",
-    "deploy": "gh-pages -d src/views"
+    "deploy": "gh-pages -d ../../../src/views/"
   },
   "keywords": [],
   "author": "",

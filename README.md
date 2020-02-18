@@ -18,5 +18,7 @@
 
 \$ cd node_modules/nw-builder/bin/ && ./nwbuild --platform win32,win64,osx64,linux32,linux64 --buildDir ../../../dist/ ../../../src/
 
-- Demo Link :
+- Demo Link : https://mahendra0859.github.io/breakout-game-nwjs/
+
+* Preview:
   ![](https://media.giphy.com/media/ehh34QlPimxJaw35Gq/giphy.gif)
